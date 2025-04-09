@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[947],{6600:o=>{o.exports=JSON.parse('{"authors":[{"name":"Eason Taylor","title":"AppSec Specialist","url":"https://tailoredsafe.com","socials":{"linkedin":"https://linkedin.com/in/eason-taylor-543984287/"},"imageURL":"https://github.com/EZTaylor.png","key":"EZTaylor","page":null,"count":3}]}')}}]);
